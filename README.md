@@ -21,6 +21,8 @@ Toutes les informations concernant les équipes proviennent d’une API, à savo
 L’application créait elle-même la liste déroulante lorsqu’elle fait appel à l’API.
 L’API est stocké sur un autre dépôt github avec le .json et tous les .png et .jpeg
 
+[API](https://raw.githubusercontent.com/Seb-Ber/repository-premier-app/master/data)
+
 ## Connaissances apprises
 Il s’agit de ma première application mobile car je n’étais pas là au 2ème semestre de 3A.
 Je peux donc dire que je n’ai cessé d’apprendre de nouvelles choses.
